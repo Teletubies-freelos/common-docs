@@ -101,4 +101,4 @@ export class RegisterBox{
     return [...this._registry]
   }
 }
-`,m="Mock (tool) vs mock. (the test double)";function B(){return t.jsxs(b,{template:t.jsx(k,{}),children:[t.jsx(w,{}),t.jsx(M,{}),t.jsx(s,{title:"Dependency Injection",md:A}),t.jsx(s,{title:m,md:S}),t.jsx(s,{title:m,md:T})]})}i.createRoot(document.getElementById("root")).render(t.jsx(g.StrictMode,{children:t.jsx(B,{})}));
+`;const m="Mock (tool) vs mock. (the test double)";function B(){return t.jsxs(b,{template:t.jsx(k,{}),children:[t.jsx(w,{}),t.jsx(M,{}),t.jsx(s,{title:"Dependency Injection",md:A}),t.jsx(s,{title:m,md:S}),t.jsx(s,{title:m,md:T})]})}i.createRoot(document.getElementById("root")).render(t.jsx(g.StrictMode,{children:t.jsx(B,{})}));
