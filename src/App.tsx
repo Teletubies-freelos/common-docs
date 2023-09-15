@@ -10,7 +10,10 @@ import mockTest from './lib/calculator/calculator.test.ts?raw'
 import mockStub from './lib/registerBox/registerBox.test?raw'
 import dependencyInjection from './lib/registerBox?raw'
 
+import './index.css'
+
 const mockVsMock = 'Mock (tool) vs mock. (the test double)'
+
 
 function App() {
 
