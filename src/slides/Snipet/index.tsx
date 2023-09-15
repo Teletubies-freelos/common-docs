@@ -8,7 +8,7 @@ interface SnipetProps {
 
 export const Snipet = ({ md, title, language = 'tsx' }: SnipetProps)=>(
   <Slide>
-    <h1>
+    <h1 className="snipetH1">
       {title}
     </h1>
     <Markdown>
