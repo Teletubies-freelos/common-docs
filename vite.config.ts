@@ -6,7 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: './',
   build:{
-    assetsDir: './',
     rollupOptions:{
       output:{
         manualChunks:{
